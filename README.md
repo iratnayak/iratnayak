@@ -22,8 +22,7 @@ I am a passionate software engineer and a former tech founder. I specialize in b
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=iratnayak&show_icons=true&theme=radical" alt="Isuru's Github Stats" />
-</p>
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=iratnayak&show_icons=true&theme=radical)
+
 ---
 ⭐️ *Thanks for visiting my profile!*
