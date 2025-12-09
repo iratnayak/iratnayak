@@ -20,9 +20,4 @@ I am a passionate software engineer and a former tech founder. I specialize in b
 </p>
 
 ---
-
-### 📊 GitHub Stats
-![Isuru's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=iratnayak&theme=radical)
-
----
 ⭐️ *Thanks for visiting my profile!*
